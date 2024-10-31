@@ -36,3 +36,16 @@ function enviarMensaje() {
         console.log("El campo de mensaje está vacío.");
     }
 }
+
+
+// Función para ocultar o mostrar solo los íconos inferiores
+function toggleMenu() {
+    const menuOpciones = document.querySelector(".menu-opciones");
+    
+    if (menuOpciones) {
+        menuOpciones.classList.toggle("oculto");
+    }
+}
+
+// Event listener para el botón del menú
+document.querySelector(".menu-barra button").addEventListener("click", toggleMenu);
