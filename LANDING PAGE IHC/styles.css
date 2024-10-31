@@ -116,6 +116,11 @@ input[type="password"],
     margin-top: 20px;
 }
 
+/* Clase para ocultar los íconos inferiores */
+.menu-opciones.oculto {
+    display: none;
+}
+
 .menu-boton {
     background: none;
     border: none;
@@ -304,3 +309,5 @@ input[type="password"],
     width: 30px;
     cursor: pointer;
 }
+
+
