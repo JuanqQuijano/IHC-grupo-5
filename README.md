@@ -40,6 +40,3 @@ Proyecto/
 │   ├── favicon.ico                   # Icono de la página
 │   └── index.html                    # Página de inicio principal (Landing Page)
 └── README.md                         # Archivo con la descripción del proyecto y documentación
-
-  ### Licencia
-Este proyecto está bajo la licencia [MIT](LICENSE).
