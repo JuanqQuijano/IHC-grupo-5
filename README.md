@@ -6,13 +6,14 @@ Este proyecto es una **página de inicio** desarrollada para la asignatura de **
 
 ## Autores
 
-- **Integrante 1**: Melisa Geraldine Sulca Silva
-- **Integrante 2**: Diego Andres Avalos Cordova
-- **Integrante 3**: Elizabeth Noelia Apaza Bocanegra
-- **Integrante 4**: Hugo Daniel Huaman Colque
-- **Integrante 5**: Juan Miguel Quijano Calderon
-- **Integrante 6**: Mathias Andree Cardenas Huaman
-- **Integrante 7**: Nicole Alexandra Alca Guillen
+- **Integrante 1**: Diego Andres Avalos Cordova
+- **Integrante 2**: Elizabeth Noelia Apaza Bocanegra
+- **Integrante 3**: Hugo Daniel Huaman Colque
+- **Integrante 4**: Juan Miguel Quijano Calderon
+- **Integrante 5**: Mathias Andree Cardenas Huaman
+- **Integrante 6**: Nicole Alexandra Alca Guillen
+- **Integrante 7**: Melisa Geraldine Sulca Silva
+
 ## Segmento Objetivo
 
 Este proyecto está dirigido a **usuarios que buscan una IA que les ayude en su dia a dia con su comunicación en redes sociales** en una aplicación web. La interfaz de usuario ha sido diseñada considerando tanto a usuarios principiantes como a usuarios avanzados, proporcionando accesibilidad y facilidad de uso para ambos grupos.
