@@ -38,6 +38,9 @@ Proyecto/
 │   │   ├── images/                   # Carpeta para almacenar imágenes
 │   │   └── scripts/
 │   │       └── main.js               # Archivo JavaScript principal
-│   ├── favicon.ico                   # Icono de la página
-│   └── index.html                    # Página de inicio principal (Landing Page)
+│   |__ favicon.ico                   # Icono de la página
 └── README.md                         # Archivo con la descripción del proyecto y documentación
+|__index.html                         # Página de bienvenida (Landing Page)
+|__inicioSesion.html                  # Página de inicio de sesión (Landing Page)
+|__mainMenu.html                      # Página de menu principal (Landing Page)
+|__mensajes.html                      # Página de mensajes (Landing Page)
