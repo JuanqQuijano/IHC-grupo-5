@@ -116,7 +116,7 @@ input[type="password"],
     margin-top: 20px;
 }
 
-/* Clase para ocultar los íconos inferiores */
+
 .menu-opciones.oculto {
     display: none;
 }
@@ -132,10 +132,10 @@ input[type="password"],
     flex-direction: column;
     align-items: center;
     gap: 5px;
-    padding: 15px; /*tamaño a separar los items de la barra lateral*/
-    transition: all 0.2s ease-in-out; /*el estilo al pasar de un boton a otro es mas suavizado*/
-    width: 75px; /* Tamaño más pequeño del recuadro al pasar mouse */
-    border-radius: 20px; /*modificar la forma del recuadro*/
+    padding: 15px; 
+    transition: all 0.2s ease-in-out; 
+    width: 75px; 
+    border-radius: 20px; 
 }
 
 .icono {
@@ -172,7 +172,6 @@ input[type="password"],
     height: 100vh;
 }
 
-/* Lista de conversaciones */
 .lista-conversaciones {
     width: 40%;
     background-color: #f0f0f5;
