@@ -35,7 +35,7 @@ h2 {
 }
 
 
-/* Botón de inicio de sesión en inicioSesion.html */
+
 button {
     width: 300px;
     padding: 15px;
@@ -210,7 +210,7 @@ input[type="password"],
     color: #888;
 }
 
-/* Panel de mensajes */
+
 .panel-mensajes {
     width: 75%;
     padding: 20px;
