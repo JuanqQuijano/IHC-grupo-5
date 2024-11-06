@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto es una **página de inicio** desarrollada para la asignatura de **Interacción Humano-Computadora (IHC)**. La página tiene como objetivo demostrar una interfaz de usuario intuitiva y amigable para una experiencia de navegación óptima. En este proyecto, se aplican principios de diseño centrado en el usuario, accesibilidad y usabilidad, proporcionando una base sólida para una futura expansión de la aplicación web.
+Este proyecto es una **página de inicio** desarrollada para la asignatura de **(IHC)**. La página tiene como objetivo demostrar una interfaz de usuario intuitiva y amigable para una experiencia de navegación óptima. En este proyecto, se aplican principios de diseño centrado en el usuario, accesibilidad y usabilidad, proporcionando una base sólida para una futura expansión de la aplicación web.
 
 ## Autores
 
@@ -15,7 +15,7 @@ Este proyecto es una **página de inicio** desarrollada para la asignatura de **
 - **Integrante 6**: Nicole Alexandra Alca Guillen
 ## Segmento Objetivo
 
-Este proyecto está dirigido a **usuarios que buscan una navegación intuitiva y sencilla** en una aplicación web. La interfaz de usuario ha sido diseñada considerando tanto a usuarios principiantes como a usuarios avanzados, proporcionando accesibilidad y facilidad de uso para ambos grupos.
+Este proyecto está dirigido a **usuarios que buscan una IA que les ayude dia dia en su comunicación en redes sociales** en una aplicación web. La interfaz de usuario ha sido diseñada considerando tanto a usuarios principiantes como a usuarios avanzados, proporcionando accesibilidad y facilidad de uso para ambos grupos.
 
 ## Principales Características
 
