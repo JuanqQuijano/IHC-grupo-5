@@ -97,7 +97,7 @@ input[type="password"],
 }
 
 
-/*mainMenu.html*/
+/*sección de mainMenu.html*/
 
 .menu-lateral {
     width: 80px;
@@ -250,7 +250,7 @@ input[type="password"],
     align-self: flex-end;
 }
 
-/* Barra para escribir un mensaje */
+
 .barra-escribir {
     display: flex;
     align-items: center;
