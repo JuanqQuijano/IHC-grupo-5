@@ -12,7 +12,7 @@ Este proyecto es una **página de inicio** desarrollada para la asignatura de **
 - **Integrante 4**: Hugo Daniel Huaman Colque
 - **Integrante 5**: Juan Miguel Quijano Calderon
 - **Integrante 6**: Mathias Andree Cardenas Huaman
-- **Integrante 6**: Nicole Alexandra Alca Guillen
+- **Integrante 7**: Nicole Alexandra Alca Guillen
 ## Segmento Objetivo
 
 Este proyecto está dirigido a **usuarios que buscan una IA que les ayude dia dia en su comunicación en redes sociales** en una aplicación web. La interfaz de usuario ha sido diseñada considerando tanto a usuarios principiantes como a usuarios avanzados, proporcionando accesibilidad y facilidad de uso para ambos grupos.
