@@ -21,3 +21,7 @@ Este proyecto consiste en una página de inicio para la materia de Interacción 
    ```bash
    git clone https://github.com/usuario/IHC-grupo-5.git
 
+   ### Licencia
+Este proyecto está bajo la licencia [MIT](LICENSE).
+
+
