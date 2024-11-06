@@ -6,12 +6,13 @@ Este proyecto es una **página de inicio** desarrollada para la asignatura de **
 
 ## Autores
 
-- **Integrante 1**: Nombre del integrante 1
-- **Integrante 2**: Nombre del integrante 2
-- **Integrante 3**: Nombre del integrante 3
-- **Integrante 4**: Nombre del integrante 4
-- **Integrante 5**: Nombre del integrante 5
-
+- **Integrante 1**: Melisa Geraldine Sulca Silva
+- **Integrante 2**: Diego Andres Avalos Cordova
+- **Integrante 3**: Elizabeth Noelia Apaza Bocanegra
+- **Integrante 4**: Hugo Daniel Huaman Colque
+- **Integrante 5**: Juan Miguel Quijano Calderon
+- **Integrante 6**: Mathias Andree Cardenas Huaman
+- **Integrante 6**: Nicole Alexandra Alca Guillen
 ## Segmento Objetivo
 
 Este proyecto está dirigido a **usuarios que buscan una navegación intuitiva y sencilla** en una aplicación web. La interfaz de usuario ha sido diseñada considerando tanto a usuarios principiantes como a usuarios avanzados, proporcionando accesibilidad y facilidad de uso para ambos grupos.
@@ -39,6 +40,8 @@ Proyecto/
 │   ├── favicon.ico                   # Icono de la página
 │   └── index.html                    # Página de inicio principal (Landing Page)
 └── README.md                         # Archivo con la descripción del proyecto y documentación
+
+
 
    ### Licencia
 Este proyecto está bajo la licencia [MIT](LICENSE).
