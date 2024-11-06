@@ -1,4 +1,4 @@
-# Página de Inicio IHC - Grupo 5
+# Página de Inicio IHC - Grupo 1
 
 ## Descripción del Proyecto
 
